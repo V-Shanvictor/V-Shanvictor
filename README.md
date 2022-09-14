@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @V-Shanvictor
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently pursuing BE CSE
-- 💞️ I’m looking to collaborate on with proffesional who are willing to teach me about full stack
+
 
 
 <!---
